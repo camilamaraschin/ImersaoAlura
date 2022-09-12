@@ -17,3 +17,5 @@
 
 ![image](https://user-images.githubusercontent.com/105385268/189714328-cadd453a-5839-43c6-9506-eb6b2c73096b.png)
 
+<b> 04 - AluraFlix </b> <br>
+![image](https://user-images.githubusercontent.com/105385268/189721786-c4888ffa-7d5c-4643-a61d-414b421eba5d.png)
