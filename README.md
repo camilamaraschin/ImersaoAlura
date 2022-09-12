@@ -12,3 +12,8 @@
 <b> 02 - Converter Moedas </b> <br>
 
 ![20220906_100650](https://user-images.githubusercontent.com/105385268/188643279-32a3b8e9-6691-4e3f-bcba-6a7abeae5746.gif)
+
+<b> 03 - Mentalista </b> <br>
+
+![image](https://user-images.githubusercontent.com/105385268/189714328-cadd453a-5839-43c6-9506-eb6b2c73096b.png)
+
