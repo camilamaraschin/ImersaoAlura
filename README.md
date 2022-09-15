@@ -19,3 +19,7 @@
 
 <b> 04 - AluraFlix </b> <br>
 ![image](https://user-images.githubusercontent.com/105385268/189721786-c4888ffa-7d5c-4643-a61d-414b421eba5d.png)
+
+<b> 05 - Carregar filme favorito </b> <br>
+
+![20220915_155701](https://user-images.githubusercontent.com/105385268/190487009-03a61713-5ce6-4c0a-a200-ea70a6f2797c.gif)
